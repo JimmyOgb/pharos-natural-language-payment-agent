@@ -2,7 +2,7 @@
 
 **Autonomous Natural-Language Payment Preparation Sentinel & Harbor Action Pattern Generalization for Pharos Network**
 
-**Live Production Deployment:** https://pharos-natural-language-payment-agent.vercel.app  
+**Live Production Deployment:** https://pharos-natural-language-payment-age.vercel.app  
 **Public Repository:** https://github.com/JimmyOgb/pharos-natural-language-payment-agent  
 **Target Ecosystem:** Pharos Pacific Mainnet (Chain ID `1672`), Pharos Atlantic Testnet (`688689`), Base Mainnet (`8453`)  
 **Security Standard:** 100% Non-Custodial, Read-Only, Zero Private Keys, Zero Autonomous Signing  
